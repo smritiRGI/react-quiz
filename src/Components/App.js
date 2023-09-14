@@ -17,7 +17,7 @@ const initialState = {
   answer: null,
   points: 0,
   highScore: 0,
-  timer: 15,
+  timer: 60,
 };
 
 const reducer = (state, action) => {
