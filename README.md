@@ -20,7 +20,7 @@ This is a simple quiz application built with React, leveraging key concepts like
 
 ## Demo
 
-You can check out a live demo of this application [https://reactquiz21.netlify.app/](#).
+You can check out a live demo of this application [https://reactquiz21.netlify.app](#).
 
 ## Installation
 
